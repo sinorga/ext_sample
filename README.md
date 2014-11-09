@@ -1,24 +1,13 @@
 # ExtSample
 
-TODO: Write a gem description
+Its a example for how the write gem with c extension.
 
-## Installation
+Currently, there is only a simple c function.
 
-Add this line to your application's Gemfile:
-
-    gem 'ext_sample'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ext_sample
-
-## Usage
-
-TODO: Write usage instructions here
+## Gems used
+1. bundler
+2. rake-compile
+3. rspec
 
 ## Contributing
 
